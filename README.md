@@ -1,2 +1,4 @@
 # Pricing-component-with-toggle
-Frontend mentor project
+Frontend Mentor challenge
+
+https://frontend-pricing-component-with-toggle.netlify.app/
